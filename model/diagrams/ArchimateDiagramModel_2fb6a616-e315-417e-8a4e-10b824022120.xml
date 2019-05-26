@@ -907,5 +907,29 @@
           xsi:type="archimate:SystemSoftware"
           href="SystemSoftware_7e3d1311-912a-493c-961f-2ade03d42950.xml#7e3d1311-912a-493c-961f-2ade03d42950"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="e53b9c02-e711-473e-a056-7c5e496baabb">
+      <bounds
+          x="564"
+          y="264"
+          width="216"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessActor"
+          href="BusinessActor_ef0ae2d7-d2ae-4afc-ae12-dfb037272817.xml#ef0ae2d7-d2ae-4afc-ae12-dfb037272817"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="aecf8e52-e9fd-4c3b-91ea-3b18f86b916a">
+      <bounds
+          x="828"
+          y="262"
+          width="216"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessActor"
+          href="BusinessActor_11721602-5ace-4e40-a00c-33271dca8538.xml#11721602-5ace-4e40-a00c-33271dca8538"/>
+    </children>
   </children>
 </archimate:ArchimateDiagramModel>
