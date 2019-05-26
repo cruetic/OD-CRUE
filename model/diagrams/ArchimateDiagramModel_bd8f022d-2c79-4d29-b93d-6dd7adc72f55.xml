@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Modelo de procesos"
-    id="bd8f022d-2c79-4d29-b93d-6dd7adc72f55">
+    id="bd8f022d-2c79-4d29-b93d-6dd7adc72f55"
+    documentation="Vista simplificada del workflow de procesos">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="3901ffca-1d67-42ad-8313-418fdd2f7cfe"

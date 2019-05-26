@@ -3,7 +3,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
     name="Menu"
-    id="ec66b330-329d-4ffd-bd3d-74ba0f626d17">
+    id="ec66b330-329d-4ffd-bd3d-74ba0f626d17"
+    documentation="Acceso a las vistas y diagramas iniciales del modelo&#xD;&#xA;&#xD;&#xA;El Observatorio del Dato está en etapa de definición. Este modelo debe servir para dimensionar las necesidades tecnológicas y ayudar en la consultoría para la estructura de la información&#xD;&#xA;">
   <children
       xsi:type="canvas:CanvasModelSticky"
       id="205250b3-c8bd-4c22-9b95-a0f291430cf2"

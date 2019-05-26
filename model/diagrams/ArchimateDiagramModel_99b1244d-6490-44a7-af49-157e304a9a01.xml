@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vista de Activos de Informacion AS IS"
-    id="99b1244d-6490-44a7-af49-157e304a9a01">
+    id="99b1244d-6490-44a7-af49-157e304a9a01"
+    documentation="Vista de la situación de los estudios en curso (UEC, Universitic etc.)&#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="27cd6483-5026-4dd2-aaa3-c94456cb8ee6"

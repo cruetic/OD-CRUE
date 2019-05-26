@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vista de Activos de Informacion TO BE"
-    id="9f506846-30e1-4654-83d1-b3d47f4c9435">
+    id="9f506846-30e1-4654-83d1-b3d47f4c9435"
+    documentation="Vista de cómo se integrarína los recursos de información en el nuevo Observatorio del Dato&#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="0613eb79-9bce-4a72-9392-cc8c2e4af4c6"

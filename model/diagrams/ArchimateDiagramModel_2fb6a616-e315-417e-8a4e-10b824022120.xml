@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Arquitectura tecnologica"
-    id="2fb6a616-e315-417e-8a4e-10b824022120">
+    id="2fb6a616-e315-417e-8a4e-10b824022120"
+    documentation="Capas de tecnología previstas ">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="20a858e2-5eec-4a5d-9133-b3fd9bca8887"

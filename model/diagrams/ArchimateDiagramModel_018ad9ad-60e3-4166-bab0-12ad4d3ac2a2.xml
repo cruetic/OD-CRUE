@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Distribución de la información"
-    id="018ad9ad-60e3-4166-bab0-12ad4d3ac2a2">
+    id="018ad9ad-60e3-4166-bab0-12ad4d3ac2a2"
+    documentation="Vista de dónde se almacena cada categoría de datos">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="aea57fc1-a9ac-49ff-b91b-f94cbfe988a0"
