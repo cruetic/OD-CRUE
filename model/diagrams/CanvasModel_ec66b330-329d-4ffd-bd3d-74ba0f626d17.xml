@@ -2,7 +2,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
-    name="New Canvas"
+    name="Menu"
     id="ec66b330-329d-4ffd-bd3d-74ba0f626d17">
   <children
       xsi:type="canvas:CanvasModelSticky"
